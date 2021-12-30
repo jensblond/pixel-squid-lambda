@@ -11,7 +11,7 @@ import Contract from 'web3-eth-contract';
 Contract.setProvider(Web3.givenProvider || 'ws://127.0.0.1:8545');
 window.ethereum.enable();
 
-const contractAddress = '0xC536DE5412ce322168480805d0fc66598412337e';
+const contractAddress = '0x45cC0379551C4386D810fc316eE345FFc189A9aE';
 var contract = new Contract(contractJson.abi, contractAddress);
 let freeMint = 4000;
 

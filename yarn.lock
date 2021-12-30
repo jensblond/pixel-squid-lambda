@@ -88,6 +88,14 @@
     "@babel/helper-explode-assignable-expression" "^7.16.0"
     "@babel/types" "^7.16.0"
 
+"@babel/helper-builder-react-jsx@^7.16.5":
+  version "7.16.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-builder-react-jsx/-/helper-builder-react-jsx-7.16.5.tgz#e4f3db66c85f7bb6191462705c58c632fc52f5b6"
+  integrity sha512-UunEMN9fDtAVplcvsJ3orBLP5T/90y+WHtehxLPnXI1iwDdJQTB/47sVyseHTPRWhTRRtHFMUZra0Wb2wxbWlg==
+  dependencies:
+    "@babel/helper-annotate-as-pure" "^7.16.0"
+    "@babel/types" "^7.16.0"
+
 "@babel/helper-compilation-targets@^7.13.0", "@babel/helper-compilation-targets@^7.16.3", "@babel/helper-compilation-targets@^7.8.7":
   version "7.16.3"
   resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.16.3.tgz#5b480cd13f68363df6ec4dc8ac8e2da11363cbf0"

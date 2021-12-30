@@ -6573,6 +6573,13 @@
     "array-includes" "^3.0.3"
     "object.assign" "^4.1.0"
 
+"jsx-runtime@^1.2.0":
+  "integrity" "sha1-O64NrVDsMFQbtbBCCxBIVmlDUMs="
+  "resolved" "https://registry.npmjs.org/jsx-runtime/-/jsx-runtime-1.2.0.tgz"
+  "version" "1.2.0"
+  dependencies:
+    "object-assign" "^3.0.0"
+
 "jwt-decode@^2.2.0":
   "integrity" "sha1-fYa9VmefWM5qhHBKZX3TkruoGnk="
   "resolved" "https://registry.npmjs.org/jwt-decode/-/jwt-decode-2.2.0.tgz"
@@ -7544,6 +7551,11 @@
   "integrity" "sha512-fexhUFFPTGV8ybAtSIGbV6gOkSv8UtRbDBnAyLQw4QPKkgNlsH2ByPGtMUqdWkos6YCRmAqViwgZrJc/mRDzZQ=="
   "resolved" "https://registry.npmjs.org/oauth-sign/-/oauth-sign-0.9.0.tgz"
   "version" "0.9.0"
+
+"object-assign@^3.0.0":
+  "integrity" "sha1-m+3VygiXlJvKR+f/QIBi1Un1h/I="
+  "resolved" "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"
+  "version" "3.0.0"
 
 "object-assign@^4", "object-assign@^4.0.1", "object-assign@^4.1.0", "object-assign@^4.1.1", "object-assign@4.1.1":
   "integrity" "sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM="

@@ -75,7 +75,8 @@ function App() {
         </div>
         <div className="pure-g">
           <div className="pure-u-1-1" id="mainText">
-            Pixel Squids are your NFT Goodluck charm. The only utility is love and the roadmap is moon. If your squid doesn't bring you 10x returns from the luck it provides to your NFT buys, then you should sell it.
+            Pixel Squids are your NFT Goodluck charm. The only utility is love and the roadmap is moon. 
+            If your squid doesn't bring you 10x returns from the luck it provides to your NFT buys, then you should sell it. !!! First 4000 mints are free! Last 1000 mints for 0.01 ETH !!! 10 mints per transaction - 40 mints max per wallet.
           </div>
         </div>
         <div className="pure-g">

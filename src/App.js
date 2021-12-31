@@ -30,7 +30,7 @@ function App() {
     const mintHandler = () =>  {
       let amountToMint = document.getElementById("amount").value;
       let cost = Web3.utils.toWei('0.01');
-      let gasLimit = 210000;
+      // let gasLimit = 210000;
       let totalCostWei = String(cost * amountToMint);
       // let totalGasLimit = String(gasLimit * amountToMint);
       if (amountToMint > 0 && amountToMint < 21) {
